@@ -10,10 +10,17 @@ namespace CacHamLuongGiac
     {
         static void Main(string[] args)
         {
-            int x;
+            ;
+            double x,a;
             Console.WriteLine("***** CAC HAM LUONG GIAC *****");
             Console.Write("Nhap vao 1 goc: ");
-            x=Convert.ToInt32(Console.ReadLine)
+            x = Convert.ToInt32(Console.ReadLine());
+            a = x * Math.PI / 180;
+            Console.WriteLine("Sin<"+x+"> la: " + Math.Sin(a));
+            Console.WriteLine("Cos<" + x + "> la: " + Math.Cos(a));
+            Console.WriteLine("Tan<" + x + "> la: " + Math.Tan(a));
+            Console.WriteLine("CogTan<" + x + "> la: " + 1/ Math.Tan(a));
+
             Console.ReadLine();
         }
     }
