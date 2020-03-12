@@ -1,0 +1,6 @@
+C:\Users\sutha\source\repos\Lab2-viet_OOP\Lab2-viet_OOP\bin\Debug\Lab2-viet_OOP.exe.config
+C:\Users\sutha\source\repos\Lab2-viet_OOP\Lab2-viet_OOP\bin\Debug\Lab2-viet_OOP.exe
+C:\Users\sutha\source\repos\Lab2-viet_OOP\Lab2-viet_OOP\bin\Debug\Lab2-viet_OOP.pdb
+C:\Users\sutha\source\repos\Lab2-viet_OOP\Lab2-viet_OOP\obj\Debug\Lab2-viet_OOP.csprojAssemblyReference.cache
+C:\Users\sutha\source\repos\Lab2-viet_OOP\Lab2-viet_OOP\obj\Debug\Lab2-viet_OOP.exe
+C:\Users\sutha\source\repos\Lab2-viet_OOP\Lab2-viet_OOP\obj\Debug\Lab2-viet_OOP.pdb

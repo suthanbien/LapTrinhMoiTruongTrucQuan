@@ -1,0 +1,5 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Interface\Interface\bin\Debug\Interface.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Interface\Interface\bin\Debug\Interface.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Interface\Interface\bin\Debug\Interface.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Interface\Interface\obj\Debug\Interface.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Interface\Interface\obj\Debug\Interface.pdb

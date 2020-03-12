@@ -1,0 +1,6 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Properties\Properties\bin\Debug\Properties.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Properties\Properties\bin\Debug\Properties.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Properties\Properties\bin\Debug\Properties.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Properties\Properties\obj\Debug\Properties.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Properties\Properties\obj\Debug\Properties.pdb

@@ -1,0 +1,6 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Lab2_Interface\Lab2_Interface\bin\Debug\Lab2_Interface.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Lab2_Interface\Lab2_Interface\bin\Debug\Lab2_Interface.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Lab2_Interface\Lab2_Interface\bin\Debug\Lab2_Interface.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Lab2_Interface\Lab2_Interface\obj\Debug\Lab2_Interface.csprojAssemblyReference.cache
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Lab2_Interface\Lab2_Interface\obj\Debug\Lab2_Interface.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Lab2_Interface\Lab2_Interface\obj\Debug\Lab2_Interface.pdb

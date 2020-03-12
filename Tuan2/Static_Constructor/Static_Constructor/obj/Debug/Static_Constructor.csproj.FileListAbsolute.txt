@@ -1,0 +1,6 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.csprojAssemblyReference.cache
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Static_Constructor\Static_Constructor\bin\Debug\Static_Constructor.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Static_Constructor\Static_Constructor\bin\Debug\Static_Constructor.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Static_Constructor\Static_Constructor\bin\Debug\Static_Constructor.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.pdb

@@ -1,0 +1,6 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopVaDoiTuong\LopVaDoiTuong\obj\Debug\LopVaDoiTuong.csprojAssemblyReference.cache
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopVaDoiTuong\LopVaDoiTuong\bin\Debug\LopVaDoiTuong.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopVaDoiTuong\LopVaDoiTuong\bin\Debug\LopVaDoiTuong.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopVaDoiTuong\LopVaDoiTuong\bin\Debug\LopVaDoiTuong.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopVaDoiTuong\LopVaDoiTuong\obj\Debug\LopVaDoiTuong.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopVaDoiTuong\LopVaDoiTuong\obj\Debug\LopVaDoiTuong.pdb

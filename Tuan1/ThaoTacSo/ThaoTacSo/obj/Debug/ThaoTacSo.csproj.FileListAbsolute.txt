@@ -1,0 +1,6 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csprojAssemblyReference.cache
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.pdb

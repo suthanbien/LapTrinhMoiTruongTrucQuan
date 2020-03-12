@@ -1,0 +1,5 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\KeThua\KeThua\bin\Debug\KeThua.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\KeThua\KeThua\bin\Debug\KeThua.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\KeThua\KeThua\bin\Debug\KeThua.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\KeThua\KeThua\obj\Debug\KeThua.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\KeThua\KeThua\obj\Debug\KeThua.pdb

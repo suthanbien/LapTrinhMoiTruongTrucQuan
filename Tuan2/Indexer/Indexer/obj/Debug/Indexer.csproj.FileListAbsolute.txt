@@ -1,0 +1,5 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Indexer\Indexer\bin\Debug\Indexer.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Indexer\Indexer\bin\Debug\Indexer.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Indexer\Indexer\bin\Debug\Indexer.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Indexer\Indexer\obj\Debug\Indexer.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Indexer\Indexer\obj\Debug\Indexer.pdb

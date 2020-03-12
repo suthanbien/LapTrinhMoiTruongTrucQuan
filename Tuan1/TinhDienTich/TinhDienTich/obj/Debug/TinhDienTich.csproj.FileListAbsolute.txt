@@ -1,0 +1,5 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.pdb

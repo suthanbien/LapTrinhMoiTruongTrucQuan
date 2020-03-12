@@ -1,0 +1,5 @@
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe.config
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.pdb
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.exe
+E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.pdb
