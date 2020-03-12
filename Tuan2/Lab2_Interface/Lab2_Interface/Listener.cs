@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lap2_Delegate
+namespace Lab2_Interface
 {
     class Listener
     {
