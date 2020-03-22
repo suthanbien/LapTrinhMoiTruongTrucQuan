@@ -1,0 +1,9 @@
+C:\Users\sutha\source\repos\Bai10\Bai10\bin\Debug\Bai10.exe.config
+C:\Users\sutha\source\repos\Bai10\Bai10\bin\Debug\Bai10.exe
+C:\Users\sutha\source\repos\Bai10\Bai10\bin\Debug\Bai10.pdb
+C:\Users\sutha\source\repos\Bai10\Bai10\obj\Debug\Bai10.Form1.resources
+C:\Users\sutha\source\repos\Bai10\Bai10\obj\Debug\Bai10.Properties.Resources.resources
+C:\Users\sutha\source\repos\Bai10\Bai10\obj\Debug\Bai10.csproj.GenerateResource.cache
+C:\Users\sutha\source\repos\Bai10\Bai10\obj\Debug\Bai10.exe
+C:\Users\sutha\source\repos\Bai10\Bai10\obj\Debug\Bai10.pdb
+C:\Users\sutha\source\repos\Bai10\Bai10\obj\Debug\Bai10.csprojAssemblyReference.cache

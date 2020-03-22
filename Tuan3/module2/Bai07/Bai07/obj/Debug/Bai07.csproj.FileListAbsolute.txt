@@ -1,0 +1,9 @@
+C:\Users\sutha\source\repos\Bai07\Bai07\bin\Debug\Bai07.exe.config
+C:\Users\sutha\source\repos\Bai07\Bai07\bin\Debug\Bai07.exe
+C:\Users\sutha\source\repos\Bai07\Bai07\bin\Debug\Bai07.pdb
+C:\Users\sutha\source\repos\Bai07\Bai07\obj\Debug\Bai07.csprojAssemblyReference.cache
+C:\Users\sutha\source\repos\Bai07\Bai07\obj\Debug\Bai07.frmBai07.resources
+C:\Users\sutha\source\repos\Bai07\Bai07\obj\Debug\Bai07.Properties.Resources.resources
+C:\Users\sutha\source\repos\Bai07\Bai07\obj\Debug\Bai07.csproj.GenerateResource.cache
+C:\Users\sutha\source\repos\Bai07\Bai07\obj\Debug\Bai07.exe
+C:\Users\sutha\source\repos\Bai07\Bai07\obj\Debug\Bai07.pdb

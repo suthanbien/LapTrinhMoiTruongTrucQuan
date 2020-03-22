@@ -1,0 +1,10 @@
+C:\Users\sutha\source\repos\Bai12\Bai12\bin\Debug\Bai12.exe.config
+C:\Users\sutha\source\repos\Bai12\Bai12\bin\Debug\Bai12.exe
+C:\Users\sutha\source\repos\Bai12\Bai12\bin\Debug\Bai12.pdb
+C:\Users\sutha\source\repos\Bai12\Bai12\obj\Debug\Bai12.csprojAssemblyReference.cache
+C:\Users\sutha\source\repos\Bai12\Bai12\obj\Debug\Bai12.Form1.resources
+C:\Users\sutha\source\repos\Bai12\Bai12\obj\Debug\Bai12.frmChon.resources
+C:\Users\sutha\source\repos\Bai12\Bai12\obj\Debug\Bai12.Properties.Resources.resources
+C:\Users\sutha\source\repos\Bai12\Bai12\obj\Debug\Bai12.csproj.GenerateResource.cache
+C:\Users\sutha\source\repos\Bai12\Bai12\obj\Debug\Bai12.exe
+C:\Users\sutha\source\repos\Bai12\Bai12\obj\Debug\Bai12.pdb
