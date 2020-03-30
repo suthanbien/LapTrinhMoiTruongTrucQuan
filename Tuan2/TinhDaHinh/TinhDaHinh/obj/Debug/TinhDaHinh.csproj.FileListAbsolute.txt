@@ -1,5 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.pdb

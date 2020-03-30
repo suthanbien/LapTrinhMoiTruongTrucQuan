@@ -1,5 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Overloading\Overloading\bin\Debug\Overloading.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Overloading\Overloading\bin\Debug\Overloading.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Overloading\Overloading\bin\Debug\Overloading.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Overloading\Overloading\obj\Debug\Overloading.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Overloading\Overloading\obj\Debug\Overloading.pdb

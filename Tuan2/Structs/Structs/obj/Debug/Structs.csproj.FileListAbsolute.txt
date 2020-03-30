@@ -1,5 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Structs\Structs\bin\Debug\Structs.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Structs\Structs\bin\Debug\Structs.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Structs\Structs\bin\Debug\Structs.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Structs\Structs\obj\Debug\Structs.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Structs\Structs\obj\Debug\Structs.pdb

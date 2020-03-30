@@ -1,6 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.csprojAssemblyReference.cache
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.pdb

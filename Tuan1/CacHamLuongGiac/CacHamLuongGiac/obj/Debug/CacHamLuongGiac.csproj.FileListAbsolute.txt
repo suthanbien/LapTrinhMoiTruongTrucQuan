@@ -1,6 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.csprojAssemblyReference.cache
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.pdb

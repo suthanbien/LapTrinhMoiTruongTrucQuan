@@ -1,9 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\bin\Debug\Bai01.exe.config
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\bin\Debug\Bai01.exe
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\bin\Debug\Bai01.pdb
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\obj\Debug\Bai01.csprojAssemblyReference.cache
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\obj\Debug\Bai01.Form1.resources
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\obj\Debug\Bai01.Properties.Resources.resources
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\obj\Debug\Bai01.exe
-E:\Tran Thanh Quy 11DHPM\Tai Lieu Hoc\MTTrucQuan\TUAN 03\Bai01\Bai01\obj\Debug\Bai01.pdb

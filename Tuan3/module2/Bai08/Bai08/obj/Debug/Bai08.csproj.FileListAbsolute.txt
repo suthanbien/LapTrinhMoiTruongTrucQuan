@@ -1,9 +1,0 @@
-C:\Users\sutha\source\repos\Bai08\Bai08\bin\Debug\Bai08.exe.config
-C:\Users\sutha\source\repos\Bai08\Bai08\bin\Debug\Bai08.exe
-C:\Users\sutha\source\repos\Bai08\Bai08\bin\Debug\Bai08.pdb
-C:\Users\sutha\source\repos\Bai08\Bai08\obj\Debug\Bai08.csprojAssemblyReference.cache
-C:\Users\sutha\source\repos\Bai08\Bai08\obj\Debug\Bai08.Form1.resources
-C:\Users\sutha\source\repos\Bai08\Bai08\obj\Debug\Bai08.Properties.Resources.resources
-C:\Users\sutha\source\repos\Bai08\Bai08\obj\Debug\Bai08.csproj.GenerateResource.cache
-C:\Users\sutha\source\repos\Bai08\Bai08\obj\Debug\Bai08.exe
-C:\Users\sutha\source\repos\Bai08\Bai08\obj\Debug\Bai08.pdb

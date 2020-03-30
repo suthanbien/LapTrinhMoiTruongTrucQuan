@@ -1,5 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\SoGaSoCho\SoGaSoCho\bin\Debug\SoGaSoCho.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\SoGaSoCho\SoGaSoCho\bin\Debug\SoGaSoCho.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\SoGaSoCho\SoGaSoCho\bin\Debug\SoGaSoCho.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\SoGaSoCho\SoGaSoCho\obj\Debug\SoGaSoCho.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan1\SoGaSoCho\SoGaSoCho\obj\Debug\SoGaSoCho.pdb

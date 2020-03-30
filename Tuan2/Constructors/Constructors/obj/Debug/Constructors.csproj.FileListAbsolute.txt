@@ -1,6 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Constructors\Constructors\bin\Debug\Constructors.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Constructors\Constructors\bin\Debug\Constructors.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Constructors\Constructors\bin\Debug\Constructors.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Constructors\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Constructors\Constructors\obj\Debug\Constructors.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\Constructors\Constructors\obj\Debug\Constructors.pdb

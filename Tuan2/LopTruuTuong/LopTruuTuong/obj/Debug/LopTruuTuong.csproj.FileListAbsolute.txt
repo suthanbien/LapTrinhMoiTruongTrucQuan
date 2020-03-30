@@ -1,5 +1,0 @@
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopTruuTuong\LopTruuTuong\bin\Debug\LopTruuTuong.exe.config
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopTruuTuong\LopTruuTuong\bin\Debug\LopTruuTuong.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopTruuTuong\LopTruuTuong\bin\Debug\LopTruuTuong.pdb
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopTruuTuong\LopTruuTuong\obj\Debug\LopTruuTuong.exe
-E:\Tran Thanh Quy 11DHPM\MTTrucQuan\Tuan2\Slide_Bai_Hoc\LopTruuTuong\LopTruuTuong\obj\Debug\LopTruuTuong.pdb
